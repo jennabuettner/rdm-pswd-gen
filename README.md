@@ -9,7 +9,7 @@ A web application with a form that will display a randomly generated password af
 * Repository URL: https://github.com/jennabuettner/rdm-pswd-gen
 
 ## Visual Overview of Web Application
-![alt text](.assets/images/ezgif.com-gif-maker.gif)
+![image](https://user-images.githubusercontent.com/104167604/171324099-0b85ea5c-e12a-474e-8011-4664e135de22.png)
 
 ## Technologies Used
 HTML, CSS, git, and Javascript
